@@ -51,4 +51,4 @@ jobs:
                 with:
                     context: .
                     push: true
-                    tags: imarty/fast-api-docker-example:latest
+                    tags: navaneethanparam/fast-api-docker-example:latest
