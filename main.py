@@ -4,7 +4,7 @@ import os
 import logging
 
 import redis.exceptions
-
+# Forked project for the test
 # Loggin setup
 logging.basicConfig(filename='/app/logs/app.log', level=logging.INFO)
 
