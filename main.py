@@ -4,7 +4,8 @@ import os
 import logging
 
 import redis.exceptions
-# Forked project for the test
+# Forked project for the test 
+# Test2 - Test 1 did not enable the GIT actions - trying after enabling workflows
 # Loggin setup
 logging.basicConfig(filename='/app/logs/app.log', level=logging.INFO)
 
